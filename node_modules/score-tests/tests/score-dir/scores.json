@@ -1,0 +1,17 @@
+{
+  "testScores": {
+    "My Test Suite": {
+      "MyTeSu1": 1
+    }
+  },
+  "idToTestNameHash": {
+    "MyTeSu1": "should add a test"
+  },
+  "testNameToIdHash": {
+    "should add a test": "MyTeSu1"
+  },
+  "humanReadable": {
+    "My Test Suite": "1/1",
+    "finalTestScore": "FINAL SCORE: 1/1"
+  }
+}
